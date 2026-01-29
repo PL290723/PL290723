@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hola!+Soy+un+Ingeniero+de+Sistemas;Apasionado+por+Data+Science+y+AI;Estudiando+Redes+y+Backend;Fan+de+la+Filosofía+y+los+JRPGs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hola!+Soy+un+estudiante+de+ingeniería+en+sistemas;Apasionado+por+Data+Science+y+AI;Estudiando+redes+y+backend" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -38,8 +38,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PL290723&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PL290723&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" width="45%" />
 </p>
 
 <h3 align="center"> Mis Estadísticas en GitHub</h3>
