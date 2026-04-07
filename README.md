@@ -38,12 +38,6 @@
 <h3 align="center"> My GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PL290723&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PL290723&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PL290723&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
 </div>
 
