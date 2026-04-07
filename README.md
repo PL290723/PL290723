@@ -30,10 +30,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PL290723&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PL290723&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" width="45%" />
-</p>
 
 <h3 align="center"> My GitHub Stats</h3>
 
